@@ -39,13 +39,14 @@ A series of SQL queries were designed to extract insights from the Ola rides dat
 ---
 
 ### 💻 **SQL Screenshot Example**
-___
+---
 <img width="1919" height="994" alt="Screenshot 2025-10-03 233202" src="https://github.com/user-attachments/assets/4d06d305-33fc-457f-967b-b76eb5683c75" />
 <img width="1919" height="977" alt="Screenshot 2025-10-03 233400" src="https://github.com/user-attachments/assets/a486b2ad-efa4-4421-9cb1-9b7990f340a6" />
 <img width="1919" height="974" alt="Screenshot 2025-10-03 233638" src="https://github.com/user-attachments/assets/ab16439f-d37c-4d64-bc83-2282bfc1de6c" />
 <img width="1919" height="994" alt="Screenshot 2025-10-03 233716" src="https://github.com/user-attachments/assets/5101463e-fccc-4dc2-8969-1b966972916a" />
 <img width="1919" height="1010" alt="Screenshot 2025-10-08 135312" src="https://github.com/user-attachments/assets/7db576c0-7ac3-4292-ae40-d69baf9a2d5a" />
-___
+
+---
 
 ## 📊 **Power BI Visualization & Insights**
 
