@@ -1,111 +1,135 @@
 # Data_Analyst_Advanced_Projects
-🚖 Ola Rides Data Analysis Project
-📋 Project Overview
+___
+## 📋 **Project Overview**
 
-This project demonstrates data analysis of Ola ride bookings by solving a series of business-driven questions using SQL and visualizing the insights with Power BI dashboards.
+This project demonstrates **data analysis of Ola ride bookings** by solving a series of **business-driven questions using SQL** and visualizing the results with **Power BI dashboards**.
 
-The goal is to extract valuable insights about ride performance, customer and driver behavior, and revenue generation patterns through structured querying and visual storytelling.
+The goal is to uncover key insights about:
+- ✅ Ride performance  
+- 👥 Customer & driver behavior  
+- 💰 Revenue and cancellation trends  
 
-🧩 Key Objectives
+---
 
-Analyze Ola ride data using SQL queries
+## 🧩 **Key Objectives**
 
-Visualize business insights using Power BI
+- Perform **data analysis using SQL**  
+- Visualize business insights through **Power BI dashboards**  
+- Identify **patterns, trends, and key performance metrics**  
 
-Identify trends in bookings, cancellations, ratings, and payments
+---
 
-🗃️ SQL Analysis
+## 🗃️ **SQL Analysis**
 
-A series of SQL queries were performed to extract insights from the Ola bookings dataset.
+A series of SQL queries were designed to extract insights from the Ola rides dataset.
 
-🔍 SQL Questions Solved
+### 🔍 **SQL Questions Solved**
 
-Retrieve all successful bookings
+1. 🟢 Retrieve all successful bookings  
+2. 📏 Find the average ride distance for each vehicle type  
+3. ❌ Get the total number of cancelled rides by customers  
+4. 👑 List the top 5 customers who booked the highest number of rides  
+5. 🚗 Get the number of rides cancelled by drivers due to personal or car-related issues  
+6. ⭐ Find the maximum and minimum driver ratings for **Prime Sedan** bookings  
+7. 💳 Retrieve all rides where payment was made using **UPI**  
+8. 🌟 Find the average customer rating per vehicle type  
+9. 💵 Calculate the total booking value of rides completed successfully  
+10. ⛔ List all incomplete rides along with the cancellation reason  
 
-Find the average ride distance for each vehicle type
+---
 
-Get the total number of cancelled rides by customers
+### 💻 **SQL Screenshot Example**
+___
+<img width="1919" height="994" alt="Screenshot 2025-10-03 233202" src="https://github.com/user-attachments/assets/4d06d305-33fc-457f-967b-b76eb5683c75" />
+<img width="1919" height="977" alt="Screenshot 2025-10-03 233400" src="https://github.com/user-attachments/assets/a486b2ad-efa4-4421-9cb1-9b7990f340a6" />
+<img width="1919" height="974" alt="Screenshot 2025-10-03 233638" src="https://github.com/user-attachments/assets/ab16439f-d37c-4d64-bc83-2282bfc1de6c" />
+<img width="1919" height="994" alt="Screenshot 2025-10-03 233716" src="https://github.com/user-attachments/assets/5101463e-fccc-4dc2-8969-1b966972916a" />
+<img width="1919" height="1010" alt="Screenshot 2025-10-08 135312" src="https://github.com/user-attachments/assets/7db576c0-7ac3-4292-ae40-d69baf9a2d5a" />
+___
+---
 
-List the top 5 customers who booked the highest number of rides
+## 📊 **Power BI Visualization & Insights**
 
-Get the number of rides cancelled by drivers due to personal and car-related issues
+After extracting and analyzing the data using SQL, the results were visualized in **Power BI** to uncover meaningful business insights.
 
-Find the maximum and minimum driver ratings for Prime Sedan bookings
+The Power BI dashboard provides an **interactive and visual summary** of Ola ride bookings — helping to understand customer behavior, cancellations, ratings, and revenue performance.
 
-Retrieve all rides where payment was made using UPI
+---
 
-Find the average customer rating per vehicle type
+### 🎯 **Dashboard Objectives**
 
-Calculate the total booking value of rides completed successfully
+- Transform SQL results into **dynamic and interactive visuals**
+- Highlight **key performance indicators (KPIs)** and business metrics
+- Simplify **decision-making** through visual storytelling
+- Analyze **ride patterns, payment modes, and cancellation trends**
 
-List all incomplete rides along with the reason
+---
 
-💻 SQL Screenshot
+### 📈 **Power BI Dashboards Include**
 
-Below is an example screenshot showing the SQL queries used in this project, demonstrating the logic and approach for each business question.
+1. 📆 **Ride Volume Over Time** – visualize how ride activity changes daily, weekly, or monthly.  
+2. 📊 **Booking Status Breakdown** – understand success, cancellation, and incomplete rides.  
+3. 🚘 **Top 5 Vehicle Types by Ride Distance** – find which vehicle types dominate longer trips.  
+4. ⭐ **Average Customer Ratings by Vehicle Type** – identify satisfaction levels across categories.  
+5. ❌ **Cancelled Ride Reasons** – discover why customers or drivers cancel rides.  
+6. 💳 **Revenue by Payment Method** – analyze income from UPI, card, and cash transactions.  
+7. 👑 **Top 5 Customers by Total Booking Value** – spot loyal, high-value customers.  
+8. 📏 **Ride Distance Distribution Per Day** – compare ride distances across days.  
+9. 🚖 **Driver Ratings Distribution** – review performance and consistency of drivers.  
+10. ⚖️ **Customer vs. Driver Ratings Comparison** – understand feedback symmetry.
 
-(Add your SQL query screenshot here)
+---
 
--- Example:
-SELECT * 
-FROM bookings
-WHERE status = 'Success';
+### 🧾 **Key Metrics (KPIs)**
 
-📊 Power BI Dashboard Insights
+| Metric | Description |
+|--------|--------------|
+| **Total Rides** | Count of all bookings |
+| **Completed Rides** | Successfully finished rides |
+| **Cancelled Rides** | Total number of cancelled rides |
+| **Total Revenue** | Sum of booking values from successful rides |
+| **Avg. Distance** | Average ride distance across all bookings |
+| **Avg. Ratings** | Combined average of driver & customer ratings |
 
-The data extracted through SQL was visualized in Power BI, highlighting key business insights.
+---
 
-📈 Power BI Visualizations
+### 🖼️ **Dashboard Preview**
 
-Ride Volume Over Time
+*(Insert screenshots of your Power BI dashboard here)*  
+- Page 1: Ride Overview  
+- Page 2: Customer & Driver Ratings  
+- Page 3: Cancellations & Revenue Insights  
 
-Booking Status Breakdown
+---
 
-Top 5 Vehicle Types by Ride Distance
+### 🚀 **Insights Gained**
 
-Average Customer Ratings by Vehicle Type
+- Peak booking periods identified for better operational planning.  
+- UPI emerged as a top-performing payment method.  
+- Sedan and Prime Sedan vehicles showed the longest average distances.  
+- Cancellation trends revealed key improvement areas for drivers and customers.  
+- High-value customers contributed significantly to total revenue.  
 
-Cancelled Rides Reasons
+---
 
-Revenue by Payment Method
+### 🛠️ **Tools Used**
 
-Top 5 Customers by Total Booking Value
+| Tool | Purpose |
+|------|----------|
+| **Power BI** | Visualization and dashboard creation |
+| **SQL** | Data extraction and transformation |
+| **Excel / CSV** | Intermediate data handling |
 
-Ride Distance Distribution Per Day
+---
 
-Driver Ratings Distribution
+### 🌟 **Conclusion**
 
-Customer vs. Driver Ratings Comparison
+The **Power BI dashboard** transforms raw Ola ride data into a powerful analytical tool.  
+It empowers users to explore insights interactively, track performance metrics, and make data-driven business decisions.  
 
-(Add screenshots of your Power BI dashboard here)
+---
 
-🚀 How to Use This Project
-
-Explore the SQL queries to understand data extraction and transformation.
-
-Open the Power BI file to view interactive dashboards and insights.
-
-Use this as a reference project for learning SQL-based data analysis and Power BI visualization workflows.
-
-🛠️ Technologies Used
-Tool	Purpose
-SQL	Data querying, cleaning, and aggregation
-Power BI	Data visualization and dashboard creation
-📚 Project Highlights
-
-End-to-end data analysis pipeline
-
-Real-world business questions solved using SQL
-
-Professionally designed Power BI dashboard
-
-Insights into Ola’s booking, rating, and revenue patterns
-
-🌟 Future Enhancements
-
-Integration of advanced DAX measures in Power BI
-
-Predictive modeling for ride cancellations and demand forecasting
+⭐ *This Power BI dashboard acts as the visualization layer of the complete Ola Rides Data Analytics Project — combining SQL logic with modern BI reporting tools for end-to-end analytics.* ⭐
 
 Adding interactive filters for time-based analysis
 
