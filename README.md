@@ -47,6 +47,9 @@ A series of SQL queries were designed to extract insights from the Ola rides dat
 <img width="1919" height="1010" alt="Screenshot 2025-10-08 135312" src="https://github.com/user-attachments/assets/7db576c0-7ac3-4292-ae40-d69baf9a2d5a" />
 
 ---
+
+---
+
 ---
 
 ## 📊 **Power BI Visualization & Insights**
@@ -122,6 +125,9 @@ The Power BI dashboard provides an **interactive and visual summary** of Ola rid
 | **Excel / CSV** | Intermediate data handling |
 
 ---
+
+---
+
 ---
 
 ## 🖼️ Power BI Dashboard Preview
@@ -171,9 +177,12 @@ It empowers users to explore insights interactively, track performance metrics, 
 
 ⭐ *This Power BI dashboard acts as the visualization layer of the complete Ola Rides Data Analytics Project — combining SQL logic with modern BI reporting tools for end-to-end analytics.* ⭐
 
+---
 
 ---
+
 ---
+
 ## 📂 Power BI File Access
 
 You can download the Power BI dashboard file directly from this repository:
