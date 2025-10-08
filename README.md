@@ -132,6 +132,19 @@ It empowers users to explore insights interactively, track performance metrics, 
 ⭐ *This Power BI dashboard acts as the visualization layer of the complete Ola Rides Data Analytics Project — combining SQL logic with modern BI reporting tools for end-to-end analytics.* ⭐
 
 Adding interactive filters for time-based analysis
+---
+
+## 📂 Power BI File Access
+
+You can download the Power BI dashboard file directly from this repository:
+
+🔗 **[Download Ola_Rides_Dashboard.pbix](./Ola_Rides_Dashboard.pbix)**  
+*(If the file preview doesn’t open, click “View Raw” → “Save As” to download it.)*
+
+Once downloaded:
+1. Open it in **Power BI Desktop**.  
+2. Refresh data connections (if needed).  
+3. Explore all interactive pages and visuals.
 
 🧑‍💻 Author
 
