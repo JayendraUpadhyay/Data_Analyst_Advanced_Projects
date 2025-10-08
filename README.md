@@ -46,7 +46,6 @@ ___
 <img width="1919" height="994" alt="Screenshot 2025-10-03 233716" src="https://github.com/user-attachments/assets/5101463e-fccc-4dc2-8969-1b966972916a" />
 <img width="1919" height="1010" alt="Screenshot 2025-10-08 135312" src="https://github.com/user-attachments/assets/7db576c0-7ac3-4292-ae40-d69baf9a2d5a" />
 ___
----
 
 ## 📊 **Power BI Visualization & Insights**
 
