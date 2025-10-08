@@ -138,7 +138,7 @@ Adding interactive filters for time-based analysis
 
 You can download the Power BI dashboard file directly from this repository:
 
-🔗 **[Download Ola_Rides_Dashboard.pbix](./Ola_Rides_Dashboard.pbix)**  
+🔗 **https://github.com/JayendraUpadhyay/Data_Analyst_Advanced_Projects/raw/refs/heads/main/OLA_Data_Analysis_Dashboard.pbit**  
 *(If the file preview doesn’t open, click “View Raw” → “Save As” to download it.)*
 
 Once downloaded:
