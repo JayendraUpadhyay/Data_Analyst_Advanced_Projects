@@ -47,6 +47,7 @@ A series of SQL queries were designed to extract insights from the Ola rides dat
 <img width="1919" height="1010" alt="Screenshot 2025-10-08 135312" src="https://github.com/user-attachments/assets/7db576c0-7ac3-4292-ae40-d69baf9a2d5a" />
 
 ---
+---
 
 ## 📊 **Power BI Visualization & Insights**
 
@@ -121,6 +122,45 @@ The Power BI dashboard provides an **interactive and visual summary** of Ola rid
 | **Excel / CSV** | Intermediate data handling |
 
 ---
+---
+
+## 🖼️ Power BI Dashboard Preview
+
+Below are the key pages of the **Ola Rides Data Analysis Dashboard** created in Power BI.  
+Each page highlights different insights from the dataset.
+
+---
+
+### 📊 1. Ride Overview
+<img width="1437" height="807" alt="Screenshot 2025-10-08 141856" src="https://github.com/user-attachments/assets/c3ffc225-0de7-4017-9a49-a4f0a8e57a36" />
+*Shows total rides, revenue, and daily ride volume.*
+
+---
+
+### 🚗 2. Vehicle Insights
+<img width="1438" height="808" alt="Screenshot 2025-10-08 141927" src="https://github.com/user-attachments/assets/f006672b-0cfe-47a2-abb4-9a25609bacea" />
+*Displays top-performing vehicle types, average ride distance, and vehicle usage patterns.*
+
+---
+
+### 💰 3. Revenue & Payment Analysis
+<img width="1439" height="805" alt="Screenshot 2025-10-08 141943" src="https://github.com/user-attachments/assets/3b42cbdd-3139-49da-a641-8d8d209965c2" />
+*Highlights total revenue, payment method breakdown, and booking value distribution.*
+
+---
+
+### ❌ 4. Cancellations & Ride Issues
+<img width="1436" height="807" alt="Screenshot 2025-10-08 142005" src="https://github.com/user-attachments/assets/96431b4c-9a07-4e8c-ad7f-6659733aaf3a" />
+*Shows rides cancelled by customers and drivers, with reasons for each.*
+
+---
+
+### ⭐ 5. Ratings Comparison
+<img width="1437" height="805" alt="Screenshot 2025-10-08 142025" src="https://github.com/user-attachments/assets/9225fcbf-df94-4934-b413-d7c04ff9b75a" />
+*Compares customer and driver ratings across different vehicle types.*
+
+---
+
 
 ### 🌟 **Conclusion**
 
@@ -131,9 +171,9 @@ It empowers users to explore insights interactively, track performance metrics, 
 
 ⭐ *This Power BI dashboard acts as the visualization layer of the complete Ola Rides Data Analytics Project — combining SQL logic with modern BI reporting tools for end-to-end analytics.* ⭐
 
-Adding interactive filters for time-based analysis
----
 
+---
+---
 ## 📂 Power BI File Access
 
 You can download the Power BI dashboard file directly from this repository:
